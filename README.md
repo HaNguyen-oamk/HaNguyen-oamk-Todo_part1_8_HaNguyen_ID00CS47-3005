@@ -1,7 +1,7 @@
 # Task part done: part 1 - part 8
 
-# Current part: 8;
-
+ #last part completed
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
