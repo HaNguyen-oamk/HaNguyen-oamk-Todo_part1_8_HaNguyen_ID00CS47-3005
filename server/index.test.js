@@ -110,7 +110,7 @@ describe("POST login", () => {
 });
 
 describe("POST register", () => {
-  const validEmail = "register0123@foo.com";
+  const validEmail = "register012345@foo.com";
   const validPassword = "register123";
 
   it("should register with valid email and password", async () => {

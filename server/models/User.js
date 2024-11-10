@@ -11,11 +11,4 @@ const selectUserByEmail = async (email) => {
   return await pool.query("select * from account where email=$1", [email]);
 };
 
-// const selectUserByEmail = async (email) => {
-//   const result = await pool.query("SELECT * FROM account WHERE email = $1", [
-//     email,
-//   ]);
-//   return result.rows[0]; // Make sure this returns a valid user object
-// };
-
 export { insertUser, selectUserByEmail };
