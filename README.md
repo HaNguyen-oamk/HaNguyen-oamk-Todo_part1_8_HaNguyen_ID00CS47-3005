@@ -1,6 +1,6 @@
 # Task part done: part 1 - part 8
 
- # last part completed
+ # Last part completed: 8
  
 # Getting Started with Create React App
 
